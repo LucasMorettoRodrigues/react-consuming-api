@@ -1,3 +1,3 @@
-# Consuming API with React
+# Consuming API with React and Typescript
 
-A simple react application to show how to consume an API using fetch, promise, async await, axios and hook.
+A simple react with typescript application to show how to consume an API using fetch, promise, async await, axios and hook.
